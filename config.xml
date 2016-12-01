@@ -49,7 +49,7 @@
   
      <!-- Plugins -->
 		
-		<gap:plugin name="cordova-plugin-bluetoothle" source="npm" />
+		<!-- <gap:plugin name="cordova-plugin-bluetoothle" source="npm" /> -->
 		
 		   
   	
